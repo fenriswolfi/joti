@@ -24,7 +24,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#from-jurte"
                 }],
          "type":"tilelayer",
          "visible":true,
